@@ -1,0 +1,53 @@
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.Form_Distributor.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.Form1.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.FormCustomerRecord.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.FormCustomerRecord3.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.FormProduct.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.FormProductRecord2.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.FormSales.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.FormStock.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.FormVendor.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.FormVendorRecord.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.Main.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.Properties.Resources.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.Registration_Detail.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.Registration.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.User_Login.resources
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.csproj.GenerateResource.cache
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.csproj.CoreCompileInputs.cache
+E:\3rd semester\SE\data project\SEproject\SEproject\bin\Release\SEproject.exe.config
+E:\3rd semester\SE\data project\SEproject\SEproject\bin\Release\SEproject.exe
+E:\3rd semester\SE\data project\SEproject\SEproject\bin\Release\SEproject.pdb
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.exe
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.pdb
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.csprojAssemblyReference.cache
+E:\3rd semester\SE\data project\SEproject\SEproject\obj\Release\SEproject.FormTitle.resources
+D:\SEproject\SEproject\bin\Release\inventorysystem (1).accdb
+D:\SEproject\SEproject\bin\Release\SEproject.exe.config
+D:\SEproject\SEproject\bin\Release\SEproject.exe
+D:\SEproject\SEproject\bin\Release\SEproject.pdb
+D:\SEproject\SEproject\obj\Release\SEproject.csprojAssemblyReference.cache
+D:\SEproject\SEproject\obj\Release\SEproject.Form_Distributor.resources
+D:\SEproject\SEproject\obj\Release\SEproject.Form1.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormCustomerRecord.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormCustomerRecord2.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormCustomerRecord3.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormOrder.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormOrderRecord1.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormProduct.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormProductRecord.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormProductRecord2.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormSearchProduct.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormStock.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormStockDetail1.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormTitle.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormVendor.resources
+D:\SEproject\SEproject\obj\Release\SEproject.FormVendorRecord.resources
+D:\SEproject\SEproject\obj\Release\SEproject.Main.resources
+D:\SEproject\SEproject\obj\Release\SEproject.Properties.Resources.resources
+D:\SEproject\SEproject\obj\Release\SEproject.Registration_Detail.resources
+D:\SEproject\SEproject\obj\Release\SEproject.Registration.resources
+D:\SEproject\SEproject\obj\Release\SEproject.csproj.GenerateResource.cache
+D:\SEproject\SEproject\obj\Release\SEproject.csproj.CoreCompileInputs.cache
+D:\SEproject\SEproject\obj\Release\SEproject.exe
+D:\SEproject\SEproject\obj\Release\SEproject.pdb
